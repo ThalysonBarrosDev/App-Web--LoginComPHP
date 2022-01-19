@@ -1,3 +1,3 @@
 # App-Web--LoginComPHP
 
-- PHP, MySQL, CSS3 e PDO.
+- PHP, MySQL, CSS3, Bootstrap e PDO.
